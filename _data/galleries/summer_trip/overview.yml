@@ -1,0 +1,142 @@
+-
+ title: Ohiopyle
+ directory: Ohiopyle
+ preview:
+  filename: 0001
+  original: 0001.jpg
+  thumbnail: thumbs/0001.jpg
+-
+ title: Palo Duro
+ directory: Palo_Duro
+ preview:
+  filename: 0005
+  original: 0005.jpg
+  thumbnail: thumbs/0005.jpg
+
+-
+ title: Yellowstone
+ directory: Yellowstone
+ preview:
+  filename: 0044
+  original: 0044.jpg
+  thumbnail: thumbs/0044.jpg
+
+-
+ title: Bell's Canyon
+ directory: Bells_Canyon
+ preview:
+  filename: 0013
+  original: 0013.jpg
+  thumbnail: thumbs/0013.jpg
+
+-
+ title: Yosemite
+ directory: Yosemite
+ preview:
+  filename: 0024
+  original: 0024.jpg
+  thumbnail: thumbs/0024.jpg
+
+-
+ title: Redwoods
+ directory: Redwoods
+ preview:
+  filename: 0002
+  original: 0002.jpg
+  thumbnail: thumbs/0002.jpg
+
+-
+ title: Pacific Northwest
+ directory: Mt_Hood
+ preview:
+  filename: 0001
+  original: 0001.jpg
+  thumbnail: thumbs/0001.jpg
+
+-
+ title: Victoria
+ directory: Victoria
+ preview:
+  filename: 0007
+  original: 0007.jpg
+  thumbnail: thumbs/0007.jpg
+
+-
+ title: Nanaimo
+ directory: Nanaimo
+ preview:
+  filename: 0004
+  original: 0004.jpg
+  thumbnail: thumbs/0004.jpg
+
+-
+ title: Vancouver
+ directory: Vancouver
+ preview:
+  filename: 0010
+  original: 0010.jpg
+  thumbnail: thumbs/0010_crop.jpg
+
+-
+ title: British Columbia
+ directory: Kamloops
+ preview:
+  filename: 0001
+  original: 0001.jpg
+  thumbnail: thumbs/0001.jpg
+
+-
+ title: Calgary
+ directory: Calgary
+ preview:
+  filename: 0002
+  original: 0002.jpg
+  thumbnail: thumbs/0002_crop.jpg
+
+-
+ title: Winnipeg
+ directory: Winnipeg
+ preview:
+  filename: 0001
+  original: 0001.jpg
+  thumbnail: thumbs/0001.jpg
+
+-
+ title: Ottawa, Quebec
+ directory: Thunder_Bay
+ preview:
+  filename: 0002
+  original: 0002.jpg
+  thumbnail: thumbs/0002.jpg
+
+-
+ title: Ottawa
+ directory: Ottawa
+ preview:
+  filename: 0003
+  original: 0003.jpg
+  thumbnail: thumbs/0003.jpg
+
+-
+ title: Quebec City
+ directory: Quebec_City
+ preview:
+  filename: 0006
+  original: 0006.jpg
+  thumbnail: thumbs/0006.jpg
+
+-
+ title: Acadia
+ directory: Acadia
+ preview:
+  filename: 0009
+  original: 0009.jpg
+  thumbnail: thumbs/0009.jpg
+
+-
+# title: Family
+# directory: Familam
+# preview:
+#  filename: 0013
+#  original: 0013.jpg
+#  thumbnail: thumbs/0013.jpg

@@ -1,0 +1,33 @@
+---
+layout: default
+title: Summer Road Trip
+permalink: /misc/summer/
+---
+
+<h1>{{ page.title }}</h1>
+
+<p>This is the gallery of the photos I took during a self planned solo road trip in the summer of 2017. Overall, it took about 1.5 months, and was a total of 13,000 miles driven.</p>
+<p>I made a rule where I would exclusivly camp in the US, and Hostel and Camp in Canada.</p>
+
+{% assign count = 0 %}
+{% assign align = "left" %}
+{% for gallery in site.data.galleries.summer_trip.overview %}
+{% if count == 0 %}<div class="row">{% endif %}
+  <div class="half-width gallery-preview {{ align }}">
+    <h1 class="galtitle">{{ gallery.title }}</h1>
+    <a href="{{ site.url }}{{ site.baseurl }}/galleries/summer_trip/{{ gallery.directory }}.html">
+      <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/images/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
+    </a>
+  </div>
+{% if count == 1 %}</div>{% endif %}
+{% assign count = count | plus: 1 %}
+{% assign align = "right" %}
+{% if count >= 2 %}
+{% assign align = "left" %}
+{% assign count = 0 %}
+{% endif %}
+{% endfor %}
+
+{% if count != 1 %}
+</div>
+{% endif %}

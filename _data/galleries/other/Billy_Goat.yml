@@ -1,0 +1,11 @@
+picture_path: Billy_Goat
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg

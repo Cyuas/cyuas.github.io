@@ -1,0 +1,58 @@
+I"ù<p>Various Images from Manassas</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Manassas/0001.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Bookstore in Old Town&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Bookstore in Old Town" src="//rachelcooper.us/images/Manassas/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Manassas/0002.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Bookstore in Old Town&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Bookstore in Old Town" src="//rachelcooper.us/images/Manassas/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Manassas/0003.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Manassas/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Manassas/0004.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Manassas/thumbs/0004.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Manassas/0005.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Manassas/thumbs/0005.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+:ET

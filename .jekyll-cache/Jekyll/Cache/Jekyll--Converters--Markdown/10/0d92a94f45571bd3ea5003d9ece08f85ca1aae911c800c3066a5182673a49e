@@ -1,0 +1,116 @@
+I"Ï<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Kamloops/0001.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Coyote Stone&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Coyote Stone" src="//rachelcooper.us/images/Kamloops/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+<p>Okanagan is a fruit producing valley in Canada. Very pretty river drives, and cheap fruit!</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Okanagan_Valley/0001.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Okanagan_Valley/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Okanagan_Valley/0002.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Okanagan_Valley/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+<p>I didnâ€™t stay in Banff, so just a few pictures from passing by</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Banff/0001.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Banff/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Banff/0002.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Banff/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Banff/0003.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Banff/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+:ET

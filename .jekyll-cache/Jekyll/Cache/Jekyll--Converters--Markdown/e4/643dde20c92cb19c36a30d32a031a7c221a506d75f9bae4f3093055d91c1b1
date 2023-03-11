@@ -1,0 +1,78 @@
+I"¬<p>First time outside of the US! Victoria was a great first spot. Great small town charm, and plenty to do in the city and on the island.</p>
+
+<p>Only bad thing, is that my phone died, so I lost pictures of the Butchart Gardens, and I kinda lost picture taking steam until I picked up a camera for Acadia.</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0001.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;First Sights of the City&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="First Sights of the City" src="//rachelcooper.us/images/Victoria/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0002.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Victoria/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0003.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Victoria/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0005.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Royal BC Museum&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Royal BC Museum" src="//rachelcooper.us/images/Victoria/thumbs/0005.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0006.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;City from Royal BC Museum&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="City from Royal BC Museum" src="//rachelcooper.us/images/Victoria/thumbs/0006.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0007.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;BC Legislature&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="BC Legislature" src="//rachelcooper.us/images/Victoria/thumbs/0007.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0008.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;BC Legislature&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="BC Legislature" src="//rachelcooper.us/images/Victoria/thumbs/0008.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Victoria/0009.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Victoria/thumbs/0009.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+:ET

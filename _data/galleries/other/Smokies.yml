@@ -1,0 +1,75 @@
+picture_path: Smokies
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+    title: Grotto Falls
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+    title: Cades Cove
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg
+  - filename: 0004
+    original: 0004.jpg
+    thumbnail: thumbs/0004.jpg
+  - filename: 0005
+    original: 0005.jpg
+    thumbnail: thumbs/0005.jpg
+  - filename: 0006
+    original: 0006.jpg
+    thumbnail: thumbs/0006.jpg
+  - filename: 0007
+    original: 0007.jpg
+    thumbnail: thumbs/0007.jpg
+  - filename: 0008
+    original: 0008.jpg
+    thumbnail: thumbs/0008.jpg
+  - filename: 0009
+    original: 0009.jpg
+    thumbnail: thumbs/0009.jpg
+  - filename: 0010
+    original: 0010.jpg
+    thumbnail: thumbs/0010.jpg
+  - filename: 0011
+    original: 0011.jpg
+    thumbnail: thumbs/0011.jpg
+  - filename: 0012
+    original: 0012.jpg
+    thumbnail: thumbs/0012.jpg
+  - filename: 0013
+    original: 0013.jpg
+    thumbnail: thumbs/0013.jpg
+  - filename: 0014
+    original: 0014.jpg
+    thumbnail: thumbs/0014.jpg
+  - filename: 0015
+    original: 0015.jpg
+    thumbnail: thumbs/0015.jpg
+  - filename: 0016
+    original: 0016.jpg
+    thumbnail: thumbs/0016.jpg
+  - filename: 0017
+    original: 0017.jpg
+    thumbnail: thumbs/0017.jpg
+  - filename: 0018
+    original: 0018.jpg
+    thumbnail: thumbs/0018.jpg
+    title: On the hike to Grotto Falls
+  - filename: 0019
+    original: 0019.jpg
+    thumbnail: thumbs/0019.jpg
+  - filename: 0020
+    original: 0020.jpg
+    thumbnail: thumbs/0020.jpg
+    title: Grotto Falls, another year
+  - filename: 0021
+    original: 0021.jpg
+    thumbnail: thumbs/0021.jpg
+  - filename: 0022
+    original: 0022.jpg
+    thumbnail: thumbs/0022.jpg
+  - filename: 0023
+    original: 0023.jpg
+    thumbnail: thumbs/0023.jpg

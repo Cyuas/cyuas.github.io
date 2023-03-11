@@ -1,0 +1,43 @@
+-
+ title: Blacksburg
+ directory: Blacksburg
+ preview:
+  filename: 0005
+  original: 0005.jpg
+  thumbnail: thumbs/0005.jpg  
+-
+ title: Smokie Mountains
+ directory: Smokies
+ preview:
+  filename: 0021
+  original: 0021.jpg
+  thumbnail: thumbs/0021.jpg
+-
+ title: Spokane
+ directory: Spokane
+ preview:
+  filename: 0006
+  original: 0006.jpg
+  thumbnail: thumbs/0006.jpg
+-
+ title: Edisto Beach
+ directory: Edisto
+ preview:
+  filename: 0002
+  original: 0002.jpg
+  thumbnail: thumbs/0002.jpg
+-
+ title: Manassas
+ directory: Manassas
+ preview:
+  filename: 0005
+  original: 0005.jpg
+  thumbnail: thumbs/0005.jpg
+-
+ title: Billygoat Trail
+ directory: Billy_Goat
+ preview:
+  filename: 0001
+  original: 0001.jpg
+  thumbnail: thumbs/0001.jpg
+

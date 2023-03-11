@@ -1,0 +1,154 @@
+I"*<p>I sadly got here on a bad day, and wasn’t able to see into the crater…</p>
+
+<div id="image-gallery-1" class="image-gallery">
+  <div id="gallery-sizer-1" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Crater_Lake/0001.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;A Bad Day to See Into Crater Lake&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="A Bad Day to See Into Crater Lake" src="//rachelcooper.us/images/Crater_Lake/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery1 = $("#image-gallery-1").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid1 = $('#image-gallery-1').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer-1',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid1.imagesLoaded().progress( function() {
+  $grid1.masonry();
+});
+</script>
+
+<p>Some pictures from exploring Mt. Hood</p>
+
+<div id="image-gallery-2" class="image-gallery">
+  <div id="gallery-sizer-2" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0001.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Mt_Hood/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0002.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Mt_Hood/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0003.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Ramona Falls&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Ramona Falls" src="//rachelcooper.us/images/Mt_Hood/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0004.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Ramona Falls&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Ramona Falls" src="//rachelcooper.us/images/Mt_Hood/thumbs/0004.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0005.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Ramona Falls&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Ramona Falls" src="//rachelcooper.us/images/Mt_Hood/thumbs/0005.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0006.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Mt_Hood/thumbs/0006.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0007.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Mt_Hood/thumbs/0007.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0008.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Mt_Hood/thumbs/0008.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Mt_Hood/0009.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Mt. Hood (and a thumb)&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Mt. Hood (and a thumb)" src="//rachelcooper.us/images/Mt_Hood/thumbs/0009.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery2 = $("#image-gallery-2").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid2 = $('#image-gallery-2').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer-2',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid2.imagesLoaded().progress( function() {
+  $grid2.masonry();
+});
+</script>
+
+<p>Port Angeles is where I took the ferry into Canada from, from here to Victoria!</p>
+
+<div id="image-gallery-3" class="image-gallery">
+  <div id="gallery-sizer-3" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Port_Angeles/0001.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Girl Scout Statue&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Girl Scout Statue" src="//rachelcooper.us/images/Port_Angeles/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Port_Angeles/0002.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Sea Cucumber&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Sea Cucumber" src="//rachelcooper.us/images/Port_Angeles/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery3 = $("#image-gallery-3").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid3 = $('#image-gallery-3').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer-3',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid3.imagesLoaded().progress( function() {
+  $grid3.masonry();
+});
+</script>
+
+:ET

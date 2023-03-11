@@ -1,0 +1,13 @@
+- title: "Research"
+  href: "/research/"
+
+- title: "Resume"
+  href: "/cv/"
+
+- title: "Misc"
+  href: "/misc/summer/"
+  subcategories:
+    - subtitle: "Summer Trip, 2017"
+      subhref: "/misc/summer/"
+    - subtitle: "Other Galleries"
+      subhref: "/misc/gallery/"

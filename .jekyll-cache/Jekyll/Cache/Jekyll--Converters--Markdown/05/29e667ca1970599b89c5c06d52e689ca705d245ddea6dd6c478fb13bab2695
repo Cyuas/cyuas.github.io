@@ -1,0 +1,76 @@
+I"<p>First stop of the trip, a state park in Pennsylvania with varying sights and terains</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0001.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;The Ohiopyle river from the Great Allegheny Passage&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="The Ohiopyle river from the Great Allegheny Passage" src="//rachelcooper.us/images/Ohiopyle/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0002.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Cucumber Falls, Top&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Cucumber Falls, Top" src="//rachelcooper.us/images/Ohiopyle/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0003.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Cucumber Falls, Bottom&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Cucumber Falls, Bottom" src="//rachelcooper.us/images/Ohiopyle/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0004.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Ohiopyle/thumbs/0004.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0005.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;General Store Cat&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="General Store Cat" src="//rachelcooper.us/images/Ohiopyle/thumbs/0005.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0006.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;The Youghiogheny Falls&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="The Youghiogheny Falls" src="//rachelcooper.us/images/Ohiopyle/thumbs/0006.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0007.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;The Youghiogheny Falls&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="The Youghiogheny Falls" src="//rachelcooper.us/images/Ohiopyle/thumbs/0007.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Ohiopyle/0008.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;First Camp Site&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="First Camp Site" src="//rachelcooper.us/images/Ohiopyle/thumbs/0008.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+:ET

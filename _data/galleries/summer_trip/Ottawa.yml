@@ -1,0 +1,43 @@
+picture_path: Ottawa
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+    title: Norte Dame Cathedral
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg
+    title: Maman (Mother)
+    caption: Outside the National Gallery of Canada
+  - filename: 0004
+    original: 0004.jpg
+    thumbnail: thumbs/0004.jpg
+    title: Parliment West Wing
+  - filename: 0005
+    original: 0005.jpg
+    thumbnail: thumbs/0005.jpg
+    title: Parliment West Wind
+  - filename: 0006
+    original: 0006.jpg
+    thumbnail: thumbs/0006.jpg
+  - filename: 0007
+    original: 0007.jpg
+    thumbnail: thumbs/0007.jpg
+    title: Ottawa Canal System
+  - filename: 0008
+    original: 0008.jpg
+    thumbnail: thumbs/0008.jpg
+    title: Notre Dame Cathedral
+    caption: Interior
+  - filename: 0009
+    original: 0009.jpg
+    thumbnail: thumbs/0009.jpg
+    title: Notre Dame Cathedral
+    caption: Interior
+  - filename: 0010
+    original: 0010.jpg
+    thumbnail: thumbs/0010.jpg
+    title: Centennial Flame

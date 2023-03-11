@@ -1,0 +1,8 @@
+picture_path: Okanagan_Valley
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg

@@ -1,0 +1,422 @@
+picture_path: Yellowstone
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+    title: Grand Tetons
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg
+  - filename: 0004
+    original: 0004.jpg
+    thumbnail: thumbs/0004.jpg
+  - filename: 0005
+    original: 0005.jpg
+    thumbnail: thumbs/0005.jpg
+    title: West Thumb Pools
+  - filename: 0006
+    original: 0006.jpg
+    thumbnail: thumbs/0006.jpg
+    title: West Thumb Pools
+  - filename: 0007
+    original: 0007.jpg
+    thumbnail: thumbs/0007.jpg
+    title: West Thumb Pools
+  - filename: 0008
+    original: 0008.jpg
+    thumbnail: thumbs/0008.jpg
+  - filename: 0009
+    original: 0009.jpg
+    thumbnail: thumbs/0009.jpg
+    title: First Buffalo
+  - filename: 0010
+    original: 0010.jpg
+    thumbnail: thumbs/0010.jpg
+  - filename: 0011
+    original: 0011.jpg
+    thumbnail: thumbs/0011.jpg
+    title: Grand Canyon of Yellowstone, Lower Falls
+  - filename: 0012
+    original: 0012.jpg
+    thumbnail: thumbs/0012.jpg
+    title: Grand Canyon of Yellowstone, Lower Falls
+  - filename: 0013
+    original: 0013.jpg
+    thumbnail: thumbs/0013.jpg
+  - filename: 0014
+    original: 0014.jpg
+    thumbnail: thumbs/0014.jpg
+  - filename: 0015
+    original: 0015.jpg
+    thumbnail: thumbs/0015.jpg
+  - filename: 0016
+    original: 0016.jpg
+    thumbnail: thumbs/0016.jpg
+  - filename: 0017
+    original: 0017.jpg
+    thumbnail: thumbs/0017.jpg
+    title: Grand Canyon of Yellowstone, Lower Falls
+  - filename: 0018
+    original: 0018.jpg
+    thumbnail: thumbs/0018.jpg
+    title: Grand Canyon of Yellowstone, Lower Falls
+  - filename: 0019
+    original: 0019.jpg
+    thumbnail: thumbs/0019.jpg
+    title: Grand Canyon of Yellowstone, Lower Falls
+  - filename: 0020
+    original: 0020.jpg
+    thumbnail: thumbs/0020.jpg
+    title: Down the Grand Canyon
+  - filename: 0021
+    original: 0021.jpg
+    thumbnail: thumbs/0021.jpg
+  - filename: 0022
+    original: 0022.jpg
+    thumbnail: thumbs/0022.jpg
+  - filename: 0023
+    original: 0023.jpg
+    thumbnail: thumbs/0023.jpg
+  - filename: 0024
+    original: 0024.jpg
+    thumbnail: thumbs/0024.jpg
+  - filename: 0025
+    original: 0025.jpg
+    thumbnail: thumbs/0025.jpg
+    title: Artists Point Lookout
+  - filename: 0026
+    original: 0026.jpg
+    thumbnail: thumbs/0026.jpg
+  - filename: 0027
+    original: 0027.jpg
+    thumbnail: thumbs/0027.jpg
+  - filename: 0028
+    original: 0028.jpg
+    thumbnail: thumbs/0028.jpg
+    title: Uncle Tom's Trail
+  - filename: 0029
+    original: 0029.jpg
+    thumbnail: thumbs/0029.jpg
+    title: Grand Canyon of Yellowstone, Upper Falls
+  - filename: 0030
+    original: 0030.jpg
+    thumbnail: thumbs/0030.jpg
+    title: Grand Canyon of Yellowstone, Upper Falls
+  - filename: 0031
+    original: 0031.jpg
+    thumbnail: thumbs/0031.jpg
+  - filename: 0032
+    original: 0032.jpg
+    thumbnail: thumbs/0032.jpg
+  - filename: 0033
+    original: 0033.jpg
+    thumbnail: thumbs/0033.jpg
+  - filename: 0034
+    original: 0034.jpg
+    thumbnail: thumbs/0034.jpg
+  - filename: 0035
+    original: 0035.jpg
+    thumbnail: thumbs/0035.jpg
+  - filename: 0036
+    original: 0036.jpg
+    thumbnail: thumbs/0036.jpg
+    title: Minerva Terrace
+  - filename: 0037
+    original: 0037.jpg
+    thumbnail: thumbs/0037.jpg
+    title: Minerva Terrace
+  - filename: 0038
+    original: 0038.jpg
+    thumbnail: thumbs/0038.jpg
+    title: Minerva Terrace
+  - filename: 0039
+    original: 0039.jpg
+    thumbnail: thumbs/0039.jpg
+  - filename: 0040
+    original: 0040.jpg
+    thumbnail: thumbs/0040.jpg
+  - filename: 0041
+    original: 0041.jpg
+    thumbnail: thumbs/0041.jpg
+  - filename: 0042
+    original: 0042.jpg
+    thumbnail: thumbs/0042.jpg
+  - filename: 0043
+    original: 0043.jpg
+    thumbnail: thumbs/0043.jpg
+  - filename: 0044
+    original: 0044.jpg
+    thumbnail: thumbs/0044.jpg
+  - filename: 0045
+    original: 0045.jpg
+    thumbnail: thumbs/0045.jpg
+  - filename: 0046
+    original: 0046.jpg
+    thumbnail: thumbs/0046.jpg
+  - filename: 0047
+    original: 0047.jpg
+    thumbnail: thumbs/0047.jpg
+  - filename: 0048
+    original: 0048.jpg
+    thumbnail: thumbs/0048.jpg
+  - filename: 0049
+    original: 0049.jpg
+    thumbnail: thumbs/0049.jpg
+  - filename: 0050
+    original: 0050.jpg
+    thumbnail: thumbs/0050.jpg
+    title: Norris Geyser Basin
+  - filename: 0051
+    original: 0051.jpg
+    thumbnail: thumbs/0051.jpg
+  - filename: 0052
+    original: 0052.jpg
+    thumbnail: thumbs/0052.jpg
+    title: Norris Geyser Basin
+  - filename: 0053
+    original: 0053.jpg
+    thumbnail: thumbs/0053.jpg
+  - filename: 0054
+    original: 0054.jpg
+    thumbnail: thumbs/0054.jpg
+  - filename: 0055
+    original: 0055.jpg
+    thumbnail: thumbs/0055.jpg
+  - filename: 0056
+    original: 0056.jpg
+    thumbnail: thumbs/0056.jpg
+  - filename: 0057
+    original: 0057.jpg
+    thumbnail: thumbs/0057.jpg
+  - filename: 0058
+    original: 0058.jpg
+    thumbnail: thumbs/0058.jpg
+  - filename: 0059
+    original: 0059.jpg
+    thumbnail: thumbs/0059.jpg
+  - filename: 0060
+    original: 0060.jpg
+    thumbnail: thumbs/0060.jpg
+  - filename: 0061
+    original: 0061.jpg
+    thumbnail: thumbs/0061.jpg
+    title: Vixen Geyser
+  - filename: 0062
+    original: 0062.jpg
+    thumbnail: thumbs/0062.jpg
+    title: Vixen Geyser
+  - filename: 0063
+    original: 0063.jpg
+    thumbnail: thumbs/0063.jpg
+    title: Vixen Geyser
+  - filename: 0064
+    original: 0064.jpg
+    thumbnail: thumbs/0064.jpg
+    title: Vixen Geyser
+  - filename: 0065
+    original: 0065.jpg
+    thumbnail: thumbs/0065.jpg
+    title: Vixen Geyser
+  - filename: 0066
+    original: 0066.jpg
+    thumbnail: thumbs/0066.jpg
+    title: Vixen Geyser
+  - filename: 0067
+    original: 0067.jpg
+    thumbnail: thumbs/0067.jpg
+    title: Vixen Geyser
+  - filename: 0068
+    original: 0068.jpg
+    thumbnail: thumbs/0068.jpg
+  - filename: 0069
+    original: 0069.jpg
+    thumbnail: thumbs/0069.jpg
+  - filename: 0070
+    original: 0070.jpg
+    thumbnail: thumbs/0070.jpg
+  - filename: 0071
+    original: 0071.jpg
+    thumbnail: thumbs/0071.jpg
+  - filename: 0072
+    original: 0072.jpg
+    thumbnail: thumbs/0072.jpg
+  - filename: 0073
+    original: 0073.jpg
+    thumbnail: thumbs/0073.jpg
+  - filename: 0074
+    original: 0074.jpg
+    thumbnail: thumbs/0074.jpg
+  - filename: 0075
+    original: 0075.jpg
+    thumbnail: thumbs/0075.jpg
+  - filename: 0076
+    original: 0076.jpg
+    thumbnail: thumbs/0076.jpg
+  - filename: 0077
+    original: 0077.jpg
+    thumbnail: thumbs/0077.jpg
+  - filename: 0078
+    original: 0078.jpg
+    thumbnail: thumbs/0078.jpg
+  - filename: 0079
+    original: 0079.jpg
+    thumbnail: thumbs/0079.jpg
+  - filename: 0080
+    original: 0080.jpg
+    thumbnail: thumbs/0080.jpg
+  - filename: 0081
+    original: 0081.jpg
+    thumbnail: thumbs/0081.jpg
+  - filename: 0082
+    original: 0082.jpg
+    thumbnail: thumbs/0082.jpg
+    title: Grand Prismatic Pool
+  - filename: 0083
+    original: 0083.jpg
+    thumbnail: thumbs/0083.jpg
+  - filename: 0084
+    original: 0084.jpg
+    thumbnail: thumbs/0084.jpg
+  - filename: 0085
+    original: 0085.jpg
+    thumbnail: thumbs/0085.jpg
+  - filename: 0086
+    original: 0086.jpg
+    thumbnail: thumbs/0086.jpg
+  - filename: 0087
+    original: 0087.jpg
+    thumbnail: thumbs/0087.jpg
+  - filename: 0088
+    original: 0088.jpg
+    thumbnail: thumbs/0088.jpg
+  - filename: 0089
+    original: 0089.jpg
+    thumbnail: thumbs/0089.jpg
+  - filename: 0090
+    original: 0090.jpg
+    thumbnail: thumbs/0090.jpg
+    title: Deep Blue
+  - filename: 0091
+    original: 0091.jpg
+    thumbnail: thumbs/0091.jpg
+  - filename: 0092
+    original: 0092.jpg
+    thumbnail: thumbs/0092.jpg
+  - filename: 0093
+    original: 0093.jpg
+    thumbnail: thumbs/0093.jpg
+  - filename: 0094
+    original: 0094.jpg
+    thumbnail: thumbs/0094.jpg
+  - filename: 0095
+    original: 0095.jpg
+    thumbnail: thumbs/0095.jpg
+  - filename: 0096
+    original: 0096.jpg
+    thumbnail: thumbs/0096.jpg
+  - filename: 0097
+    original: 0097.jpg
+    thumbnail: thumbs/0097.jpg
+  - filename: 0098
+    original: 0098.jpg
+    thumbnail: thumbs/0098.jpg
+  - filename: 0099
+    original: 0099.jpg
+    thumbnail: thumbs/0099.jpg
+    title: Riverside Geyser
+  - filename: 0100
+    original: 0100.jpg
+    thumbnail: thumbs/0100.jpg
+    title: Riverside Geyser
+  - filename: 0101
+    original: 0101.jpg
+    thumbnail: thumbs/0101.jpg
+    title: Riverside Geyser
+  - filename: 0102
+    original: 0102.jpg
+    thumbnail: thumbs/0102.jpg
+    title: Riverside Geyser
+  - filename: 0103
+    original: 0103.jpg
+    thumbnail: thumbs/0103.jpg
+    title: Grotto Geyser
+  - filename: 0104
+    original: 0104.jpg
+    thumbnail: thumbs/0104.jpg
+    title: Grotto Geyser
+  - filename: 0105
+    original: 0105.jpg
+    thumbnail: thumbs/0105.jpg
+  - filename: 0106
+    original: 0106.jpg
+    thumbnail: thumbs/0106.jpg
+  - filename: 0107
+    original: 0107.jpg
+    thumbnail: thumbs/0107.jpg
+  - filename: 0108
+    original: 0108.jpg
+    thumbnail: thumbs/0108.jpg
+    title: Daisy Geyser
+  - filename: 0109
+    original: 0109.jpg
+    thumbnail: thumbs/0109.jpg
+    title: Daisy Geyser
+  - filename: 0110
+    original: 0110.jpg
+    thumbnail: thumbs/0110.jpg
+    title: Daisy Geyser
+  - filename: 0111
+    original: 0111.jpg
+    thumbnail: thumbs/0111.jpg
+    title: Daisy Geyser
+  - filename: 0112
+    original: 0112.jpg
+    thumbnail: thumbs/0112.jpg
+    title: Old Faithful
+  - filename: 0113
+    original: 0113.jpg
+    thumbnail: thumbs/0113.jpg
+    title: Old Faithful
+  - filename: 0114
+    original: 0114.jpg
+    thumbnail: thumbs/0114.jpg
+    title: Old Faithful
+  - filename: 0115
+    original: 0115.jpg
+    thumbnail: thumbs/0115.jpg
+    title: Old Faithful
+  - filename: 0116
+    original: 0116.jpg
+    thumbnail: thumbs/0116.jpg
+    title: Old Faithful
+  - filename: 0117
+    original: 0117.jpg
+    thumbnail: thumbs/0117.jpg
+    title: Old Faithful
+  - filename: 0118
+    original: 0118.jpg
+    thumbnail: thumbs/0118.jpg
+    title: Old Faithful
+  - filename: 0119
+    original: 0119.jpg
+    thumbnail: thumbs/0119.jpg
+    title: The Camp Buffalo
+  - filename: 0120
+    original: 0120.jpg
+    thumbnail: thumbs/0120.jpg
+    title: The Camp Buffalo
+  - filename: 0121
+    original: 0121.jpg
+    thumbnail: thumbs/0121.jpg
+    title: The Camp Buffalo
+  - filename: 0122
+    original: 0122.jpg
+    thumbnail: thumbs/0122.jpg
+    title: The Camp Buffalo
+  - filename: 0123
+    original: 0123.jpg
+    thumbnail: thumbs/0123.jpg
+    title: The Tetons, Leaving the parks

@@ -1,0 +1,46 @@
+I"<p>Various Images from The Billygoat Trail, on the Maryland/Virginia border</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Billy_Goat/0001.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Billy_Goat/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Billy_Goat/0002.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Billy_Goat/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Billy_Goat/0003.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Billy_Goat/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+:ET

@@ -1,0 +1,26 @@
+picture_path: Winnipeg
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+    title: Hostel Church
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+    title: Legislative Building
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg
+    title: Train Museum
+  - filename: 0004
+    original: 0004.jpg
+    thumbnail: thumbs/0004.jpg
+    title: Canadian Human Rights Museum
+  - filename: 0005
+    original: 0005.jpg
+    thumbnail: thumbs/0005.jpg
+  - filename: 0006
+    original: 0006.jpg
+    thumbnail: thumbs/0006.jpg
+    title: Canadian Human Rights Museum
+    caption: Interior

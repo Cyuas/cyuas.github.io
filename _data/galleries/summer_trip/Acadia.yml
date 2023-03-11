@@ -1,0 +1,296 @@
+picture_path: Acadia
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg
+  - filename: 0004
+    original: 0004.jpg
+    thumbnail: thumbs/0004.jpg
+  - filename: 0005
+    original: 0005.jpg
+    thumbnail: thumbs/0005.jpg
+  - filename: 0006
+    original: 0006.jpg
+    thumbnail: thumbs/0006.jpg
+    title: The Seawall
+    caption: High Tide
+  - filename: 0007
+    original: 0007.jpg
+    thumbnail: thumbs/0007.jpg
+    title: The Seawall
+    caption: High Tide
+  - filename: 0008
+    original: 0008.jpg
+    thumbnail: thumbs/0008.jpg
+  - filename: 0009
+    original: 0009.jpg
+    thumbnail: thumbs/0009.jpg
+    title: Bass Harbour Lighthouse
+  - filename: 0010
+    original: 0010.jpg
+    thumbnail: thumbs/0010.jpg
+  - filename: 0011
+    original: 0011.jpg
+    thumbnail: thumbs/0011.jpg
+  - filename: 0012
+    original: 0012.jpg
+    thumbnail: thumbs/0012.jpg
+  - filename: 0013
+    original: 0013.jpg
+    thumbnail: thumbs/0013.jpg
+  - filename: 0014
+    original: 0014.jpg
+    thumbnail: thumbs/0014.jpg
+  - filename: 0015
+    original: 0015.jpg
+    thumbnail: thumbs/0015.jpg
+  - filename: 0016
+    original: 0016.jpg
+    thumbnail: thumbs/0016.jpg
+  - filename: 0017
+    original: 0017.jpg
+    thumbnail: thumbs/0017.jpg
+  - filename: 0018
+    original: 0018.jpg
+    thumbnail: thumbs/0018.jpg
+    title: Long Pond
+  - filename: 0019
+    original: 0019.jpg
+    thumbnail: thumbs/0019.jpg
+    title: Long Pond
+  - filename: 0020
+    original: 0020.jpg
+    thumbnail: thumbs/0020.jpg
+  - filename: 0021
+    original: 0021.jpg
+    thumbnail: thumbs/0021.jpg
+    title: Long Pond
+    caption: Mansell Mountain
+  - filename: 0022
+    original: 0022.jpg
+    thumbnail: thumbs/0022.jpg
+    title: Long Pond
+    caption: Mansell Mountain
+  - filename: 0023
+    original: 0023.jpg
+    thumbnail: thumbs/0023.jpg
+    title: Bar Harbour
+  - filename: 0024
+    original: 0024.jpg
+    thumbnail: thumbs/0024.jpg
+    title: Beech Mountain Fire Tower
+  - filename: 0025
+    original: 0025.jpg
+    thumbnail: thumbs/0025.jpg
+  - filename: 0026
+    original: 0026.jpg
+    thumbnail: thumbs/0026.jpg
+  - filename: 0027
+    original: 0027.jpg
+    thumbnail: thumbs/0027.jpg
+  - filename: 0028
+    original: 0028.jpg
+    thumbnail: thumbs/0028.jpg
+  - filename: 0029
+    original: 0029.jpg
+    thumbnail: thumbs/0029.jpg
+    title: Mansell Mountain to Long Pond
+  - filename: 0030
+    original: 0030.jpg
+    thumbnail: thumbs/0030.jpg
+  - filename: 0031
+    original: 0031.jpg
+    thumbnail: thumbs/0031.jpg
+    title: Beech Mountain Fire Tower
+  - filename: 0032
+    original: 0032.jpg
+    thumbnail: thumbs/0032.jpg
+    title: Beech Mountain Fire Tower
+  - filename: 0033
+    original: 0033.jpg
+    thumbnail: thumbs/0033.jpg
+    title: Moose above Bar Harbour
+  - filename: 0034
+    original: 0034.jpg
+    thumbnail: thumbs/0034.jpg
+  - filename: 0035
+    original: 0035.jpg
+    thumbnail: thumbs/0035.jpg
+  - filename: 0036
+    original: 0036.jpg
+    thumbnail: thumbs/0036.jpg
+    title: The Band Plays
+  - filename: 0037
+    original: 0037.jpg
+    thumbnail: thumbs/0037.jpg
+  - filename: 0038
+    original: 0038.jpg
+    thumbnail: thumbs/0038.jpg
+  - filename: 0039
+    original: 0039.jpg
+    thumbnail: thumbs/0039.jpg
+  - filename: 0040
+    original: 0040.jpg
+    thumbnail: thumbs/0040.jpg
+  - filename: 0041
+    original: 0041.jpg
+    thumbnail: thumbs/0041.jpg
+  - filename: 0042
+    original: 0042.jpg
+    thumbnail: thumbs/0042.jpg
+  - filename: 0043
+    original: 0043.jpg
+    thumbnail: thumbs/0043.jpg
+  - filename: 0044
+    original: 0044.jpg
+    thumbnail: thumbs/0044.jpg
+  - filename: 0045
+    original: 0045.jpg
+    thumbnail: thumbs/0045.jpg
+  - filename: 0046
+    original: 0046.jpg
+    thumbnail: thumbs/0046.jpg
+  - filename: 0047
+    original: 0047.jpg
+    thumbnail: thumbs/0047.jpg
+  - filename: 0048
+    original: 0048.jpg
+    thumbnail: thumbs/0048.jpg
+  - filename: 0049
+    original: 0049.jpg
+    thumbnail: thumbs/0049.jpg
+  - filename: 0050
+    original: 0050.jpg
+    thumbnail: thumbs/0050.jpg
+  - filename: 0051
+    original: 0051.jpg
+    thumbnail: thumbs/0051.jpg
+  - filename: 0052
+    original: 0052.jpg
+    thumbnail: thumbs/0052.jpg
+  - filename: 0053
+    original: 0053.jpg
+    thumbnail: thumbs/0053.jpg
+  - filename: 0054
+    original: 0054.jpg
+    thumbnail: thumbs/0054.jpg
+  - filename: 0055
+    original: 0055.jpg
+    thumbnail: thumbs/0055.jpg
+    title: Thunder Hole
+  - filename: 0056
+    original: 0056.jpg
+    thumbnail: thumbs/0056.jpg
+    title: Thunder Hole
+  - filename: 0057
+    original: 0057.jpg
+    thumbnail: thumbs/0057.jpg
+    title: Thunder Hole
+  - filename: 0058
+    original: 0058.jpg
+    thumbnail: thumbs/0058.jpg
+    title: Thunder Hole
+  - filename: 0059
+    original: 0059.jpg
+    thumbnail: thumbs/0059.jpg
+    title: Thunder Hole
+  - filename: 0060
+    original: 0060.jpg
+    thumbnail: thumbs/0060.jpg
+    title: Thunder Hole
+  - filename: 0061
+    original: 0061.jpg
+    thumbnail: thumbs/0061.jpg
+  - filename: 0062
+    original: 0062.jpg
+    thumbnail: thumbs/0062.jpg
+    title: Otter Cliffs
+  - filename: 0063
+    original: 0063.jpg
+    thumbnail: thumbs/0063.jpg
+  - filename: 0064
+    original: 0064.jpg
+    thumbnail: thumbs/0064.jpg
+  - filename: 0065
+    original: 0065.jpg
+    thumbnail: thumbs/0065.jpg
+    title: Otter Cliffs
+  - filename: 0066
+    original: 0066.jpg
+    thumbnail: thumbs/0066.jpg
+    title: Zen Pond
+  - filename: 0067
+    original: 0067.jpg
+    thumbnail: thumbs/0067.jpg
+    title: Zen Pond
+  - filename: 0068
+    original: 0068.jpg
+    thumbnail: thumbs/0068.jpg
+    title: Zen Pond
+  - filename: 0069
+    original: 0069.jpg
+    thumbnail: thumbs/0069.jpg
+    title: Zen Pond
+  - filename: 0070
+    original: 0070.jpg
+    thumbnail: thumbs/0070.jpg
+    title: Zen Pond
+  - filename: 0071
+    original: 0071.jpg
+    thumbnail: thumbs/0071.jpg
+    title: Zen Pond
+  - filename: 0072
+    original: 0072.jpg
+    thumbnail: thumbs/0072.jpg
+    title: Zen Pond
+  - filename: 0073
+    original: 0073.jpg
+    thumbnail: thumbs/0073.jpg
+    title: Zen Pond
+  - filename: 0074
+    original: 0074.jpg
+    thumbnail: thumbs/0074.jpg
+    title: Zen Pond
+  - filename: 0075
+    original: 0075.jpg
+    thumbnail: thumbs/0075.jpg
+    title: Zen Pond
+  - filename: 0076
+    original: 0076.jpg
+    thumbnail: thumbs/0076.jpg
+  - filename: 0077
+    original: 0077.jpg
+    thumbnail: thumbs/0077.jpg
+    title: Carraige Road Gatehouse
+  - filename: 0078
+    original: 0078.jpg
+    thumbnail: thumbs/0078.jpg
+    title: Views from Cadillac Mountain
+  - filename: 0079
+    original: 0079.jpg
+    thumbnail: thumbs/0079.jpg
+    title: Views from Cadillac Mountain
+  - filename: 0080
+    original: 0080.jpg
+    thumbnail: thumbs/0080.jpg
+    title: Views from Cadillac Mountain
+  - filename: 0081
+    original: 0081.jpg
+    thumbnail: thumbs/0081.jpg
+    title: Views from Cadillac Mountain
+  - filename: 0082
+    original: 0082.jpg
+    thumbnail: thumbs/0082.jpg
+    title: The Seawall
+    caption: Low Tide
+  - filename: 0083
+    original: 0083.jpg
+    thumbnail: thumbs/0083.jpg
+    title: The Seawall
+    caption: Low Tide

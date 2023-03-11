@@ -1,0 +1,112 @@
+I"È<p>Here is the family I was able to see during my travels across the country!</p>
+
+<div id="image-gallery" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0001.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0001.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0002.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0002.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0003.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0003.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0004.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0004.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0005.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0005.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0006.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0006.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0007.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0007.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0008.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0008.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0009.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0009.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0010.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0010.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0011.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0011.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0012.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0012.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0013.jpg" data-responsive="" class="image">
+      <img alt="" src="//rachelcooper.us/images/Familam/thumbs/0013.jpg" />
+    </a>
+  </div>
+  
+  <div class="image-wrapper">
+    <a href="//rachelcooper.us/images/Familam/0014.jpg" data-responsive="" class="image" data-sub-html="&lt;div class='lg-toolbar caption'&gt;&lt;h4&gt;Slam Dunk&lt;/h4&gt;&lt;/div&gt;">
+      <img alt="Slam Dunk" src="//rachelcooper.us/images/Familam/thumbs/0014.jpg" />
+    </a>
+  </div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery = $("#image-gallery").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+// init isotope
+var $grid = $('#image-gallery').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+// layout Isotope after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+:ET

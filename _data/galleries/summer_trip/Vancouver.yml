@@ -1,0 +1,62 @@
+picture_path: Vancouver
+pictures:
+  - filename: 0001
+    original: 0001.jpg
+    thumbnail: thumbs/0001.jpg
+    title: Vancouver Zoo
+  - filename: 0002
+    original: 0002.jpg
+    thumbnail: thumbs/0002.jpg
+    title: Vancouver Zoo
+  - filename: 0003
+    original: 0003.jpg
+    thumbnail: thumbs/0003.jpg
+    title: Vancouver Zoo
+  - filename: 0004
+    original: 0004.jpg
+    thumbnail: thumbs/0004.jpg
+    title: Vancouver Zoo
+  - filename: 0005
+    original: 0005.jpg
+    thumbnail: thumbs/0005.jpg
+    title: Vancouver Zoo
+  - filename: 0006
+    original: 0006.jpg
+    thumbnail: thumbs/0006.jpg
+    title: Vancouver Zoo
+  - filename: 0007
+    original: 0007.jpg
+    thumbnail: thumbs/0007.jpg
+    title: Vancouver Zoo
+  - filename: 0008
+    original: 0008.jpg
+    thumbnail: thumbs/0008.jpg
+    title: Vancouver Zoo
+  - filename: 0009
+    original: 0009.jpg
+    thumbnail: thumbs/0009.jpg
+    title: Vancouver Zoo
+  - filename: 0010
+    original: 0010.jpg
+    thumbnail: thumbs/0010.jpg
+    title: Vancouver Zoo
+  - filename: 0011
+    original: 0011.jpg
+    thumbnail: thumbs/0011.jpg
+    title: Vancouver Zoo
+  - filename: 0012
+    original: 0012.jpg
+    thumbnail: thumbs/0012.jpg
+    title: Vancouver Zoo
+  - filename: 0013
+    original: 0013.jpg
+    thumbnail: thumbs/0013.jpg
+    title: Vancouver Zoo
+  - filename: 0014
+    original: 0014.jpg
+    thumbnail: thumbs/0014.jpg
+    title: Vancouver Zoo
+  - filename: 0015
+    original: 0015.jpg
+    thumbnail: thumbs/0015.jpg
+    title: Vancouver Zoo
