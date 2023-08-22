@@ -3,8 +3,8 @@ _site
 .jekyll-cache
 
 images/Familam
-galleries/Familam
-_data/galleries/summer_trip/Familam
+galleries/summer_trip/Familam.md
+_data/galleries/summer_trip/Familam.yml
 
 Gemfile
 Gemfile.lock
