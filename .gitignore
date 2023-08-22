@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+
+images/Familam
+galleries/Familam
+_data/galleries/summer_trip/Familam
+
+Gemfile
+Gemfile.lock
