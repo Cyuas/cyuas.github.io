@@ -41,3 +41,34 @@
   original: 0001.jpg
   thumbnail: thumbs/0001.jpg
 
+-
+ title: Outer Banks
+ directory: Outer_Banks
+ preview:
+  filename: 0001
+  original: 0001.jpg
+  thumbnail: thumbs/0001.jpg
+
+-
+ title: Maryland and Pennsylvania
+ directory: MD_And_PA
+ preview:
+  filename: 0007
+  original: 0007.jpg
+  thumbnail: thumbs/0007.jpg
+
+-
+ title: Hocking Hills
+ directory: Hocking_Hills
+ preview:
+  filename: 0055
+  original: 0055.jpg
+  thumbnail: thumbs/0055.jpg
+
+-
+ title: Ohiopyle 2022
+ directory: Ohiopyle_2022
+ preview:
+  filename: 0023
+  original: 0023.jpg
+  thumbnail: thumbs/0023.jpg
